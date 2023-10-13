@@ -7,4 +7,6 @@ It has a simple design designed for you to use on your server.  The only known b
 * My main goal is to create free designs and share them with you.
 
 - Thank you very much for downloading this product! Hope you have fun!
+
+- "It's desing simple for you"
   
