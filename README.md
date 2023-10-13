@@ -4,7 +4,7 @@
 
 # About
 It has a simple design designed for you to use on your server.  The only known bug is: Not responsive (I'm working on it)
-* Script still in initialization. We are developing hotwheels car collection / trading script.
+* My main goal is to create free designs and share them with you.
 
 - Thank you very much for downloading this product! Hope you have fun!
   
